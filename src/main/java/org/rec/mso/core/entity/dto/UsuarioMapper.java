@@ -1,6 +1,6 @@
 package org.rec.mso.core.entity.dto;
 
-import org.rec.mso.core.entity.models.Usuario;
+import org.rec.mso.core.entity.dominio.Usuario;
 
 import java.util.List;
 import java.util.stream.Collectors;

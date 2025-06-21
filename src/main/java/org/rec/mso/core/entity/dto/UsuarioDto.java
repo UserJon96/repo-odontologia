@@ -2,7 +2,7 @@ package org.rec.mso.core.entity.dto;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.rec.mso.core.entity.models.Persona;
+import org.rec.mso.core.entity.dominio.Persona;
 
 @Getter
 @Setter
